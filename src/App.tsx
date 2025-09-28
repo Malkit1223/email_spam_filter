@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 import axios from 'axios';
 import './App.css';
 
-const API_BASE = 'https://7530006fdd31.ngrok-free.app/';
+const API_BASE = 'https://9fe5de3bb5ca.ngrok-free.app/api/';
 
 interface Email {
   id: number;
